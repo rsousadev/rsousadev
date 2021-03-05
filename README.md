@@ -3,9 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Desenvolvedor de sistemas, com inspirações criativas.
-🎓 &nbsp;Estou me formando em ciência de dados
-✍️ &nbsp;No meu tempo livre, assisto filmes, leio livros e aproveito com a família
+💡 &nbsp;Desenvolvedor de sistemas, com inspirações criativas.<br>
+🎓 &nbsp;Estou me formando em ciência de dados.<br>
+✍️ &nbsp;No meu tempo livre, assisto filmes, leio livros e aproveito com a família.<br>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
