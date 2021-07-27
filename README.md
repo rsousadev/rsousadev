@@ -38,7 +38,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ricardo-de-maria-sousa-99b69b144/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ricardo@iftrue.com.br"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ryck1093"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rsousadev/"><img src="https://img.shields.io/badge/-Ricardo%20De%20Maria%20Sousa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ricardo.dmsousa@gmail.com"><img src="https://img.shields.io/badge/-ricardo.dmsousa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ryck1093"><img src="https://img.shields.io/badge/-@risousadev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
