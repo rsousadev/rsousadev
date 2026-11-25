@@ -1,53 +1,223 @@
+<h1 align="center">Ricardo de Maria Sousa</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h3 align="center">
+  Software Engineer • Backend • Cloud • Software Architecture • AI Engineering
+</h3>
+
+---
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Um desenvolvedor de software curioso e dedicado, amante das novas tecnologias e inteligência artificial.<br>
-🎓 &nbsp;Formado em ciência de dados.<br>
-✍️ &nbsp;No meu tempo livre, assito documentários, leio livros e programo mais ainda rs.<br>
+Engenheiro de software, formado em Ciência de Dados, apaixonado por tecnologia, arquitetura de software e inteligência artificial.
 
+- 💻 &nbsp;Experiência em desenvolvimento backend, integrações e modernização de sistemas.
+- 🏗️ &nbsp;Arquitetura de software e construção de aplicações escaláveis e resilientes.
+- ☁️ &nbsp;Desenvolvimento de soluções cloud-native e serverless.
+- 🤖 &nbsp;Interesse em engenharia de inteligência artificial e sistemas multiagentes.
+- 🪵 &nbsp;Marceneiro nas horas vagas, apaixonado por livros e documentários.
 
-<img alt="Coding" height=150 width=250 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right"/>
-
-
+---
 
 ### 🛠 &nbsp;Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Agentic AI" />
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
+
+#### Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,js,ts,php,nodejs"/>
 </p>
+
+#### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css"/>
+</p>
+
+#### Relational Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
+</p>
+
+#### NoSQL, Cache & Search Engines
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,elasticsearch,dynamodb"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
+</p>
+
+#### DevOps & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,bash,vscode,neovim"/>
+</p>
+
+---
+
+### ☁️ &nbsp;Cloud Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp"/>
+</p>
+
+#### Compute & Containers
+
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge)
+![Fargate](https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge)
+
+#### Storage
+
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
+
+#### Messaging & Events
+
+![SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge)
+![EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF4F8B?style=for-the-badge)
+![DLQ](https://img.shields.io/badge/Dead_Letter_Queues-FF4F8B?style=for-the-badge)
+
+#### Observability
+
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-E7157B?style=for-the-badge)
+![X-Ray](https://img.shields.io/badge/AWS_X--Ray-FF9900?style=for-the-badge)
+![Distributed Tracing](https://img.shields.io/badge/Distributed_Tracing-6366F1?style=for-the-badge)
+
+---
+
+### 🏗️ &nbsp;Software Architecture & Engineering
+
+#### Architecture Patterns
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2563EB?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0891B2?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-7C3AED?style=for-the-badge)
+![Serverless](https://img.shields.io/badge/Serverless-FF9900?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-475569?style=for-the-badge)
+
+#### Software Design & Quality
+
+![SOLID](https://img.shields.io/badge/SOLID_Principles-2563EB?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-7C3AED?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-059669?style=for-the-badge)
+![Separation of Concerns](https://img.shields.io/badge/Separation_of_Concerns-475569?style=for-the-badge)
+
+`Maintainability` `Scalability` `Performance` `Resilience`
+
+#### API Engineering
+
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-2563EB?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+`Authentication` `Authorization` `System Integration` `Asynchronous Processing`
+
+#### Software Modernization
+
+![Legacy Systems](https://img.shields.io/badge/Legacy_Systems-475569?style=for-the-badge)
+![Refactoring](https://img.shields.io/badge/Refactoring-059669?style=for-the-badge)
+![Runtime Migration](https://img.shields.io/badge/Runtime_Migration-512BD4?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+
+---
+
+### 📊 &nbsp;Data Engineering & Data Science
+
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-2563EB?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-0891B2?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-059669?style=for-the-badge)
+![Data Processing](https://img.shields.io/badge/Data_Processing-7C3AED?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge)
+
+`Structured & Unstructured Data`
+`Data Transformation`
+`Data Integration`
+`Search & Indexing`
+`Caching Strategies`
+`Database Performance`
+
+---
+
+### 🤖 &nbsp;AI Engineering
+
+#### AI Platforms & Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-181717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+#### Generative AI & Agents
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-4F46E5?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0891B2?style=for-the-badge)
+
+#### Protocols & Integration
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-181717?style=for-the-badge)
+![A2A](https://img.shields.io/badge/Agent--to--Agent-4285F4?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-059669?style=for-the-badge)
+
+#### Knowledge & Context
+
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-0891B2?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-059669?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-475569?style=for-the-badge)
+
+---
+
+### 🎯 &nbsp;Currently Exploring
+
+Meu objetivo é aprofundar conhecimentos em arquitetura de sistemas de larga escala e na integração de inteligência artificial em produtos de software.
+
+- Advanced System Design
+- AI Product Engineering
+- Multi-agent Orchestration
+- High Availability & Fault Tolerance
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/rsousadev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rsousadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rsousadev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://streak-stats.demolab.com?user=rsousadev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rsousadev/"><img src="https://img.shields.io/badge/-Ricardo%20De%20Maria%20Sousa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ricardo.dmsousa@gmail.com"><img src="https://img.shields.io/badge/-ricardo.dmsousa@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rsousadev"><img src="https://img.shields.io/badge/-@rsousadev-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rsousadev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ricardo.dmsousa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/rsousadev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rsousadev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Engineering software. Building solutions. Always learning.</i>
 </p>
